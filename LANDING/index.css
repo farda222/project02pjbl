@@ -565,3 +565,9 @@ body {
     position: relative;
     margin-right: 100px;
   }
+#saturn-image {
+    margin-top: 3vh;
+    width: 100%;
+    height: 100%;
+}
+    
